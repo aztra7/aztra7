@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Thomson Luis</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img   align="right" width="400" src="https://camo.githubusercontent.com/d9371b5288da607654acbad3e0297b35d56dd1e12d553414fde1899660fe3c8f/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66302f66302f64392f66306630643933326436653339633761663561613330356362643864613733352e676966" alt="itachi pic">
+<img   align="right" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9100d753-02ac-4ed8-ac98-5e45d6deecad/depz7pg-cec2dc5d-a328-4509-9987-f9c1d638cf73.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzkxMDBkNzUzLTAyYWMtNGVkOC1hYzk4LTVlNDVkNmRlZWNhZFwvZGVwejdwZy1jZWMyZGM1ZC1hMzI4LTQ1MDktOTk4Ny1mOWMxZDYzOGNmNzMuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Y0BXPgApGcSqOB-MWenqtw-Lt9rt9AH1xNaBB1j3opY" alt="itachi pic">
 
 - 🔭 I’m currently working on **frontend projects**
 
