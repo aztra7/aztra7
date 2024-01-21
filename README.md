@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Thomson Luis</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img   align="right" width="400" src="https://cdn.dribbble.com/users/363821/screenshots/3487973/media/9c2522b1cbe32a39c9680e72d20f7221.gif" alt="itachi pic">
+<img   align="right" width="400" src="https://i.gifer.com/embedded/download/3qpj.gif" alt="itachi pic">
 
 - 🔭 I’m currently working on **frontend projects**
 
